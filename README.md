@@ -1,4 +1,4 @@
-# TinyLM: A State-of-the-Art Quantized Language Model
+# Bitseek: A State-of-the-Art Quantized Language Model
 
 This repository contains the implementation of a state-of-the-art quantized language model (TinyLM) with the following key features:
 
